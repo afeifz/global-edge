@@ -5,6 +5,9 @@
 ### Juan F. Alves Muradas RM 555541
 ### Ahmad Jaafar RM: 97927
 
+## Link do projeto do Wokwi
+https://wokwi.com/projects/399225250407839745
+
 # Projeto de Monitoramento de Qualidade da Água com Arduino
 
 Este projeto utiliza um Arduino para monitorar a qualidade da água em tempo real, exibindo informações em um display LCD e acionando servos de acordo com a leitura dos sensores. O sistema também acende LEDs para indicar se a água está segura ou contaminada.
